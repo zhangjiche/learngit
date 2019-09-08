@@ -1,4 +1,8 @@
 Git is a version control system.
+ooooo
+i try once 
+second 
+wo 刚加的
 Git is free software,xinzeng de 
 xinzeng 1
 xinzeng 2
